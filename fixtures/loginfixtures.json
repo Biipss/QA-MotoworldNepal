@@ -1,0 +1,51 @@
+{
+        "validUser":{
+            "email": "bipinshresthaa2020@gmail.com",
+            "password": "bipin@123"
+        },
+        "invalidUserPass":{
+            "email": "admin@test.com",
+            "password": "admin"
+        },
+        "invalidPass":{
+            "email": "bipinshresthaa2020@gmail.com",
+            "password": "moto123"
+        },
+        "invalidUser":{
+            "email": "admin@test.com",
+            "password": "bipin@123"
+        },
+        "emptyUserinvalidPass":{
+            "email": "",
+            "password": "test@123"
+        },
+        "emptyPassinvalidUser":{
+            "email": "bipinshrestha202@gmail.com",
+            "password": ""
+        },
+        "emptyUservalidPass":{
+            "email": "",
+            "password": "bipin@123"
+        },
+        "emptyPassvalidUser":{
+            "email": "bipinshresthaa2020@gmail.com",
+            "password": ""
+        },
+        "emptyUserandPass":{
+            "email": "",
+            "password": ""
+        },
+
+    "search":{
+        "searchTerm": "LS2 Goggles",
+        "randomSearch": "lls2",
+        "emptySearch" : "",
+        "specialcharSearch": ":':%%^&",
+        "longcharSearch": "hjajkhakjdhauhadasdhgajgdhasgdjhasgdjhagsjdgasdgsahjgdjhasgdjasgdjagdj",
+        "caseinsensitiveSearch": "KYT"
+    },
+
+    "filler":{
+        "fillTerm": "2"
+    }
+}   
